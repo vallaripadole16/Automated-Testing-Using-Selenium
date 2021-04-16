@@ -1,2 +1,9 @@
 # Automated-Testing-Using-Selenium
-This is Selenium test script in Java to test elements of a website (The Sparks Foundation)
+Sparks Foundation Internship Project : Testing Automated
+A test script to test elements of a website - thesparksfoundation.sg
+
+Language: Java
+Technology: Selenium
+Software: Netbeans IDE
+
+The test script checks of 6 pages and 10 elements in total.
