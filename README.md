@@ -4,6 +4,6 @@ A test script to test elements of a website - thesparksfoundation.sg
 
 Language: Java
 Technology: Selenium
-Software: Netbeans IDE
+Software: NetBeans IDE
 
 The test script checks of 6 pages and 10 elements in total.
